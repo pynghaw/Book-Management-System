@@ -22,10 +22,10 @@ This is a simple Book Management System built with ASP.NET Core MVC, demonstrati
 ![Home Page](screenshots/home.png)
 
 #### List of Books Page
-![Course Page](screenshots/course.png)
+![Books Page](screenshots/books.png)
 
 
-#### Edit, Details and Delete Page (Registration)
+#### Edit, Update and Delete Book Page
 ![Create Book](screenshots/createbook.png)
 
 ![Updaet Book ](screenshots/updatebook.png)
