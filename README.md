@@ -15,3 +15,19 @@ This is a simple Book Management System built with ASP.NET Core MVC, demonstrati
 - SQL Server (with stored procedures)
 - Bootstrap 5
 - Visual Studio 2022
+
+## Page View
+
+#### Home Page (After Login)
+![Home Page](screenshots/home.png)
+
+#### List of Books Page
+![Course Page](screenshots/course.png)
+
+
+#### Edit, Details and Delete Page (Registration)
+![Create Book](screenshots/createbook.png)
+
+![Updaet Book ](screenshots/updatebook.png)
+
+![Delete Book](screenshots/deletebook.png)
